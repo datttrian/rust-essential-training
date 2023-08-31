@@ -24,7 +24,8 @@
 	// "remoteUser": "root"
 	"extensions": [
 		"rust-lang.rust-analyzer",
-		"tamasfe.even-better-toml"
+		"tamasfe.even-better-toml",
+		"polypus74.trusty-rusty-snippets"
 	],
 	"onCreateCommand": "echo 'export PS1=\"\\W $ \"' >> ~/.bashrc"
 }
